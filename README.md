@@ -14,6 +14,8 @@ A MDH project course. There course work is stored here.
 - RobotControl
 Neural network and Fuzzy Logic control systems for remote control robots
 
+- Cpython
+https://github.com/python/cpython 
 ## NOTES
 
 - Coursera-ML-AndrewNg-Notes
@@ -23,7 +25,7 @@ Neural network and Fuzzy Logic control systems for remote control robots
 
 - Leetcode
 I felt I used to search existing packages and now I need to practise basic data structure and algo.s again.
-- NewCoder
+- NewCoder (Private)
 This is a Chinese OJ website. The test cases are easier than Leetcode.
 - Kattis
 Wow, it is developed by KTH!
